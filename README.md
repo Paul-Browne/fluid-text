@@ -1,5 +1,5 @@
 # fluid-text
-make text always fit
+make text always fit a given `max-hieght` by decreasing the font-size until it fits
 ```html
 <p class="someclass js-max-font">some text</p>
 ```
